@@ -1,1 +1,7 @@
  java is a object oriented programming language
+   #include<stdio.h>
+   int main()
+   {
+      printf("hello world");
+   }
+
