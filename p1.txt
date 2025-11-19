@@ -2,4 +2,10 @@
 first experiment
 my name is swathi 
 i am a computer science student
-  my name is swathi
+  my name is swathi 
+
+  #include<stdio.h>
+  int main(){
+    printf("hello");
+   }
+
